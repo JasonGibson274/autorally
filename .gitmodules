@@ -1,0 +1,3 @@
+[submodule "submodules/singleshotpose"]
+	path = submodules/singleshotpose
+	url = https://github.com/microsoft/singleshotpose.git
